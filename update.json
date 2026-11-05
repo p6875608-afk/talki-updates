@@ -1,0 +1,7 @@
+{
+  "versionCode": 6,
+  "versionName": "3.1",
+  "apkUrl": "https://github.com/p6875608-afk/talki-updates/releases/download/v6/app-debug.apk",
+  "sha256": "fad2a4ffcf5a057a297b6f9dc0858551eb9fbbf4bc1bb635610ce54fb7fb60d",
+  "releaseNotes": "Custom reminders, improved AI training, numbered memory deletion and bug fixes."
+}
